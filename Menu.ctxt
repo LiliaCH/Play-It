@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Men\u00FA\ principal\ del\ juego\n\ \n\ @author\ (Lilia\ y\ Esa\u00FA)\ \n\ @version\ (11.04.2016)\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\n\ Constructor\ del\ Men\u00FA\n\ \n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ act\u00FAa\n\ \n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\n\ Prepara\ el\ men\u00FA\ colocando\ los\ botones\ necesarios\n\ \n
+numComments=4

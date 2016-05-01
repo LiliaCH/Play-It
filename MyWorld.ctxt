@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Clase\ principal,\ muestra\ el\ inicio\ del\ juego.\n\ \n\ @author\ (Lilia\ y\ Esa\u00FA)\ \n\ @version\ (11.04.2016)\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ usa\ las\ im\u00E1genes\ creadas\ en\ el\ constructor\ para\ hacer\ la\ transici\u00F3n\ entre\n\ la\ pantalla\ principal\ para\ despu\u00E9s\ llamar\ al\ men\u00FA\ principal.\n
+numComments=3

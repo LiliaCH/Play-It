@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=esc_trio
+comment0.text=\n\ Clase\ que\ maneja\ la\ parte\ del\ tr\u00EDo\n\ \n\ @author\ Lilia\ y\ Esa\u00FA\ \n\ @version\ (11.04.2016)\n
+comment1.params=
+comment1.target=esc_trio()
+comment1.text=\n\ Constructor\ para\ los\ objetos,\ llama\ a\ la\ funci\u00F3n\ prepare\n\ \n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepara\ el\ mundo\n\ Crea\ el\ pianista,\ violinista\ y\ cellista\ y\ los\ posiciona\n
+numComments=3

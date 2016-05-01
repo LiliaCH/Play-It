@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=esc_dueto
+comment0.text=\n\ Crea\ el\ escenario\ para\ el\ dueto\n\ \n\ @author\ (Esa\u00FA\ y\ Lilia)\ \n\ @version\ (21.04.2016)\n
+comment1.params=
+comment1.target=esc_dueto()
+comment1.text=\n\ Constructor\ para\ la\ clase\ dueto\n\ \n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Crea\ los\ objetos\ y\ botones\ necesarios\ \n
+numComments=3

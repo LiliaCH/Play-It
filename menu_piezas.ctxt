@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=menu_piezas
+comment0.text=\n\ Write\ a\ description\ of\ class\ menu_piezas\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=menu_piezas()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ menu_piezas.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4
